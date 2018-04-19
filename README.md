@@ -4,4 +4,4 @@ Question: How do Javascript developers address the gap between the newer Javascr
 
 This is an especially hard problem because there are browsers and operating systems, that read and interpret Javascript differently.
 
-![image](https://cloud.githubusercontent.com/assets/9053854/24495974/fbf2e0cc-1547-11e7-846c-25b5fac7f6b1.png)
+![image](https://https://i.imgur.com/nHUj1zK.jpg)
